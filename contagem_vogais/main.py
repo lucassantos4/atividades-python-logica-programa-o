@@ -1,3 +1,9 @@
+"""
+1. Crie uma função chamada contar_vogais que receba uma string
+ e retorne a quantidade de vogais encontradas.
+Na main, peça uma frase ao usuário e exiba o resultado.
+"""
+
 
 def ordenar_vogais(palavra):
     vogais = ['a', 'e', 'i', 'o', 'u']

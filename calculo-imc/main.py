@@ -1,3 +1,12 @@
+"""
+2. Escreva uma função calcular_imc que receba peso e altura e retorne o IMC
+ calculado.Crie uma segunda função classificar_imc que receba o valor do IMC
+e retorne a classificação
+("Abaixo do peso", "Normal", "Sobrepeso" ou "Obesidade").
+Use a main para orquestrar as chamadas.
+"""
+
+
 def calcular_imc(peso, altura):
 
     imc = peso / (altura ** 2)
